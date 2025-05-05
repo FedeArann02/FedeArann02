@@ -61,7 +61,8 @@ desde entonces día a día voy aprendiendo varias tecnologías con gran interés
           <img src="https://camo.githubusercontent.com/aea960bddd6e23cac629dcee6bb35252538f4813d771f54a2689c3badc0c5df5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536372756d2d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d736372756d266c6f676f436f6c6f723d7768697465">
 
 - Entity FrameWork ORM
-- Git / Github / Gitlab / Trello
+- Git / Github / Gitlab
+- JIRA , Trello
     
   </div>
 </h3>
