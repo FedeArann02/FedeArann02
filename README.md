@@ -19,7 +19,7 @@ desde entonces día a día voy aprendiendo varias tecnologías con gran interés
       • Diseño UX/UI, diseño amigable e intuitivo enfocado en la USABILIDAD del usuario.
   </ul>
     <ul>
-      • Experiencia en análisis y requerimientos de sistemas, trabajos en equipo en el instituto para distintos clientes (departamento de Bomberos de San Vicente).
+      • Experiencia en análisis y requerimientos de sistemas, trabajos en equipo en el instituto.
   </ul>
 </li>
 
