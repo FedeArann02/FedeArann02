@@ -57,8 +57,13 @@ Actualmente continúo ampliando mis conocimientos en distintas tecnologías, con
 
 ## Proyectos destacados
 
-### 🛒 Cart PayPal API
+### Sistema de gestión — C#
 
+Aplicación de escritorio desarrollada en C# y Windows Forms para la gestión de información y operaciones de un departamento de bomberos.
+El sistema se encuentra actualmente en funcionamiento y es utilizado en un entorno real.
+>  Repositorio privado por motivos de seguridad y privacidad.
+
+### Cart PayPal API
 API REST para la gestión de productos, usuarios, carrito y ventas, desarrollada con Node.js, Express y PostgreSQL.
 
 Incluye autenticación mediante Supabase Auth, integración con PayPal y documentación interactiva con Swagger.
