@@ -56,7 +56,7 @@ API REST para la gestión de productos, usuarios, carrito y ventas, desarrollada
 
 Incluye autenticación mediante Supabase Auth, integración con PayPal y documentación interactiva con Swagger.
 
-👉 **[Ver proyecto](https://github.com/FedeAran/cart-paypal-api)** · **[Probar API en Swagger](https://cart-paypal-api.onrender.com/api-docs/#/)**
+👉 **[Ver proyecto](https://github.com/FedeArann02/cart-paypal-api)** · **[Probar API en Swagger](https://cart-paypal-api.onrender.com/api-docs/#/)**
 
 ---
 
