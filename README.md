@@ -2,9 +2,9 @@
 
 ### Backend Developer · Análisis y Desarrollo de Aplicaciones
 
-Estudiante de **Análisis, Desarrollo y Programación de Aplicaciones**, con enfoque en desarrollo backend, bases de datos y diseño de APIs REST.
+Desarrollador enfocado en backend, diseño de APIs REST y bases de datos relacionales. Interesado en el desarrollo de aplicaciones, diseño de sistemas y construcción de soluciones mantenibles y funcionales.
 
-Interesado en el desarrollo de aplicaciones, diseño de sistemas y gestión de bases de datos relacionales. Actualmente continúo ampliando mis conocimientos en distintas tecnologías y profundizando en el desarrollo backend.
+Actualmente continúo ampliando mis conocimientos en distintas tecnologías, con especial interés en desarrollo backend, bases de datos y arquitectura de aplicaciones.
 
 ---
 
@@ -35,16 +35,17 @@ Interesado en el desarrollo de aplicaciones, diseño de sistemas y gestión de b
 
 ---
 
-## Conocimientos
+## Áreas de conocimiento
 
-* Análisis y relevamiento de requerimientos
-* Diseño y desarrollo de aplicaciones
-* Diseño de bases de datos relacionales
-* SQL y consultas complejas
-* Diseño y desarrollo de APIs REST
-* Documentación técnica
-* Diagramas UML y modelado de sistemas
-* Control de versiones y trabajo colaborativo
+- Desarrollo backend
+- Diseño y desarrollo de APIs REST
+- Bases de datos y SQL
+- Análisis y diseño de sistemas
+- Seguridad de aplicaciones
+- Documentación técnica
+- Metodologías ágiles y gestión de tareas
+- Control de versiones
+- Trabajo colaborativo
 
 ---
 
@@ -60,16 +61,20 @@ Incluye autenticación mediante Supabase Auth, integración con PayPal y documen
 
 ---
 
-## Actualmente
+## Enfoque actual
 
-* Profundizando en desarrollo backend
-* Mejorando conocimientos de diseño y arquitectura de APIs
-* Trabajando con bases de datos relacionales
-* Explorando nuevas tecnologías y herramientas
+- Desarrollo backend
+- Diseño y desarrollo de APIs REST
+- Bases de datos relacionales y SQL
+- Arquitectura y organización de aplicaciones
+- Seguridad de aplicaciones
+- Buenas prácticas y calidad de código
 
----
+## Próximos objetivos
 
-<p align="center">
-  <sub>Buenos Aires, Argentina · Backend Development · APIs REST · Bases de Datos</sub>
-</p>
-
+- Profundizar en testing
+- Arquitectura de software
+- Cloud y servicios de infraestructura
+- CI/CD y automatización de despliegues
+- Observabilidad y monitoreo
+- Diseño de sistemas escalables
