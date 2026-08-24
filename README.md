@@ -48,7 +48,7 @@ Interesado en el desarrollo de aplicaciones, diseño de sistemas y gestión de b
 
 ---
 
-## Proyectos
+## Proyectos destacados
 
 ### 🛒 Cart PayPal API
 
