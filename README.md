@@ -8,7 +8,7 @@ Interesado en el desarrollo de aplicaciones, diseño de sistemas y gestión de b
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ### Backend
 
@@ -35,7 +35,7 @@ Interesado en el desarrollo de aplicaciones, diseño de sistemas y gestión de b
 
 ---
 
-## 📌 Conocimientos
+## Conocimientos
 
 * Análisis y relevamiento de requerimientos
 * Diseño y desarrollo de aplicaciones
@@ -48,7 +48,7 @@ Interesado en el desarrollo de aplicaciones, diseño de sistemas y gestión de b
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
 ### 🛒 Cart PayPal API
 
@@ -56,13 +56,13 @@ API REST para la gestión de productos, usuarios, carrito y ventas, desarrollada
 
 Incluye autenticación mediante Supabase Auth, integración con PayPal y documentación interactiva con Swagger.
 
-👉 **[Ver proyecto](#)** · **[Probar API en Swagger](#)**
+**[Ver proyecto](#)** · **[Probar API en Swagger](#)**
 
 <!-- Agregar más proyectos destacados aquí -->
 
 ---
 
-## 🎯 Actualmente
+## Actualmente
 
 * Profundizando en desarrollo backend
 * Mejorando conocimientos de diseño y arquitectura de APIs
