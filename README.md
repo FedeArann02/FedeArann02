@@ -43,15 +43,15 @@ Actualmente continúo ampliando mis conocimientos en distintas tecnologías, con
 
 ## Áreas de conocimiento
 
-- Desarrollo backend
-- Diseño y desarrollo de APIs REST
-- Bases de datos y SQL
-- Análisis y diseño de sistemas
+- Desarrollo backend y APIs REST
+- Bases de datos relacionales y SQL
+- Análisis y relevamiento de requerimientos
+- Modelado y diseño de sistemas
+- UML y documentación técnica
+- Diagramación de procesos y sistemas
 - Seguridad de aplicaciones
-- Documentación técnica
 - Metodologías ágiles y gestión de tareas
-- Control de versiones
-- Trabajo colaborativo
+- Control de versiones y trabajo colaborativo
 
 ---
 
@@ -69,6 +69,12 @@ API REST para la gestión de productos, usuarios, carrito y ventas, desarrollada
 Incluye autenticación mediante Supabase Auth, integración con PayPal y documentación interactiva con Swagger.
 
 👉 **[Ver proyecto](https://github.com/FedeArann02/cart-paypal-api)** · **[Probar API en Swagger](https://cart-paypal-api.onrender.com/api-docs/#/)**
+
+---
+
+## Proyectos académicos
+
+C#/.NET + WPF + MVVM + ASP.NET Core + Minimal APIs + SQL Server + SSIS + BI.
 
 ---
 
