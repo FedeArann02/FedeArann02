@@ -8,7 +8,7 @@ Actualmente continúo ampliando mis conocimientos en distintas tecnologías, con
 
 ### Curriculum Vitae
 
-[**Ver mi CV →**](./FEDERICO ARAN CV.pdf)
+[**Ver mi CV →**](./FEDERICO_ARAN_CV.pdf)
 
 ---
 
