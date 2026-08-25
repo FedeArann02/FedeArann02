@@ -6,6 +6,10 @@ Desarrollador enfocado en backend, diseño de APIs REST y bases de datos relacio
 
 Actualmente continúo ampliando mis conocimientos en distintas tecnologías, con especial interés en desarrollo backend, bases de datos y arquitectura de aplicaciones.
 
+### Curriculum Vitae
+
+[**Ver mi CV →**](TU_URL_DE_CANVA)
+
 ---
 
 ## Tecnologías
